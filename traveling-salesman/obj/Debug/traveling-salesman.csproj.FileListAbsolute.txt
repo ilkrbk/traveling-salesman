@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/bin/Debug/traveling_salesman.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/bin/Debug/traveling_salesman.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/obj/Debug/traveling-salesman.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/obj/Debug/traveling-salesman.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/obj/Debug/traveling_salesman.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/traveling-salesman/traveling-salesman/obj/Debug/traveling_salesman.pdb
